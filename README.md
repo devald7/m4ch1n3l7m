@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @m4ch1n3l7m
-- 👀 I’m interested in kittys.
-- 🌱 I’m currently learning Web Development.
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me @machineltm
+- 👋 Hi, Soy M4ch1n3l7m
+- 🐱 Soy un fiel amante de los felinos.
+- 🌱 Actualmente estoy estudiando Ing. de Software.
+- 💞️ Me gusta todo tipo de colaboración. 
+- 🏃 Y siempre me gusta sonreír y no rendirme.
 
 <!---
 m4ch1n3l7m/m4ch1n3l7m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
